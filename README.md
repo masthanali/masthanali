@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masthan S</h1>
-<h3 align="center">Senior Software Engineer | .NET and ReactJs Enthusiast | Cloud Explorer | Gen AI Explorer</h3>
+<h3 align="center">Senior Software Engineer | .NET and ReactJs Enthusiast | Cloud Explorer | Generative AI Explorer </h3>
 
 ---
 
@@ -18,6 +18,7 @@
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -34,10 +35,15 @@
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-6DB33F?style=flat)
 ![Dapper](https://img.shields.io/badge/-Dapper-2D2D2D?style=flat)
 ![LINQ](https://img.shields.io/badge/-LINQ-BC2C1A?style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 #### 🧠 AI & Innovation
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-6E57E0?style=flat&logo=brain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG_(Retrieval--Augmented_Generation)-4B0082?style=flat&logo=search&logoColor=white)
+![Embedding](https://img.shields.io/badge/-Embedding-1E90FF?style=flat&logo=vector-graphics&logoColor=white)
 
 #### 🗄️ Databases
 ![MSSQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
