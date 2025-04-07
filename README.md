@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masthan S</h1>
-<h3 align="center">Senior Software Engineer | .NET and ReactJs Enthusiast | Cloud Explorer | Generative AI Explorer </h3>
+<h3 align="center">Senior Software Engineer | .NET & ReactJS Specialist | Cloud & GenAI Enthusiast </h3>
 
 ---
 
