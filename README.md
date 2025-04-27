@@ -24,6 +24,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=ajax&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
@@ -47,6 +48,8 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG_(Retrieval--Augmented_Generation)-4B0082?style=flat&logo=search&logoColor=white)
 ![Embedding](https://img.shields.io/badge/-Embedding-1E90FF?style=flat&logo=vector-graphics&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI_Agents-1D4ED8?style=flat&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-000000?style=flat&logoColor=white)
 
 #### 🗄️ Databases
 ![MSSQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
