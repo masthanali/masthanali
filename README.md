@@ -15,6 +15,8 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -38,6 +40,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat&logo=signalr&logoColor=white)
 
 #### 🧠 AI & Innovation
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-6E57E0?style=flat&logo=brain&logoColor=white)
